@@ -66,20 +66,6 @@ When I'm not optimizing inference from 27s → 1s or building knowledge graph in
 ---
 
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gee842&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gee842&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-
----
-
-
 <p align="center">
   <i>"I have a deep interest in psychology, which reflects my ability to communicate and empathize with both people, and LLMs."</i>
 </p>
